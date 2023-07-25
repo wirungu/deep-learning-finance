@@ -1,2 +1,2 @@
-# Deep Learning and Financial Froecasting
+# Deep Learning and Financial Forecasting
 Comparing the performance of simple RNN models to more classical techniques in financial time series forecasting.
